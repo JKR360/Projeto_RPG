@@ -1,0 +1,11 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore OS-specific files
+*.import
+*.godot/imported/*
+*.cfg
+
+# Godot's binary files
+export_presets.cfg
